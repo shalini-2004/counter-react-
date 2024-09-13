@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(93, 239, 237);
+}
+h1{
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+span{
+    font-size: 7rem;
+}
+.btn{
+    padding: 0.6rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    border: 3px solid;
+    margin: 0.5rem;
+    letter-spacing: 0.2rem;
+    background-color: rgb(194, 101, 210);
+}
+.button-container{
+    margin-top: 1rem;
+}
+.btn:hover{
+    color: rgb(233, 233, 61);
+}
+h1:hover{
+    color: rgb(115, 34, 187);
+}
+
+
+
